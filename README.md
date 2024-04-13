@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=tnc4y&icon=0&color=12)](https://visitcount.itsvg.in)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&duration=6000&color=9214F7&random=true&width=435&lines=Developer;Designer;Translator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&duration=6000&color=00FF00&random=true&width=435&lines=Developer;)](https://git.io/typing-svg)
 
 I'm Tuncay
 
