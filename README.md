@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Mobile%20%26%20IoT%20Developer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20•%20SwiftUI%20•%20ESP32%20•%20Cloud&descAlignY=58&descSize=20" width="100%"/>
-
 <a href="https://github.com/tnc4y">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Cross-Platform+Mobile+Developer+%F0%9F%93%B1;Flutter+%26+SwiftUI+Developer+%F0%9F%8D%8E;IoT+Systems+with+ESP32+%F0%9F%93%A1;Building+Connected+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
 </a>
