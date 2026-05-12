@@ -42,9 +42,9 @@ Mobile-first developer focused on **Flutter** and **SwiftUI**, connecting apps t
 
 | | |
 |---|---|
-| 📍 | Konya, Türkiye |
+| 📍 | Adana, Türkiye |
 | 📱 | Flutter · SwiftUI |
-| 📡 | ESP32 · MQTT · BLE |
+| 📡 | ESP32 · MQTT · BLE · WiFi |
 | ☁️ | AWS · Cloudflare |
 | 🎯 | Currently leveling up in SwiftUI |
 
@@ -250,23 +250,38 @@ Mobile-first developer focused on **Flutter** and **SwiftUI**, connecting apps t
 
 <br/>
 
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░ BLOG ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## ✍️ &nbsp; Blog
+
+<table>
+<tr>
+<td width="60px" align="center">📝</td>
+<td>
+<a href="https://www.tncy.dev/blog/modern-flutter-development-2025"><b>Modern Flutter Development in 2025</b></a><br/>
+<sub>Architecture, tooling, and patterns for production Flutter apps — tncy.dev</sub>
+</td>
+</tr>
+</table>
+
+> More posts at **[tncy.dev](https://www.tncy.dev)**
+
+<br/>
+
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ CONTACT ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 ## <img src="https://media.giphy.com/media/zaqclXyLz3Uoo/giphy.gif" width="30"/> &nbsp; Let's Connect
 
 <div align="center">
 
-<a href="mailto:mail@example.com">
+<a href="https://tncy.dev">
+  <img src="https://img.shields.io/badge/tncy.dev-000000?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+<a href="mailto:muhammettuncayyilmaz@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/tnc4y">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/tnc4y">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://t.me/tnc4y">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </div>
